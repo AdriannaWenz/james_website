@@ -280,7 +280,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
+  background: url("../img/downloads_bg.jpg") no-repeat center center scroll;
   background-attachment: fixed;
   background-color: black;
   -webkit-background-size: cover;
