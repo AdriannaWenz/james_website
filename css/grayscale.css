@@ -218,6 +218,8 @@ a:focus, a:hover {
   text-align: center;
   color: white;
   background: url("../img/drums.jpg") no-repeat bottom center scroll;
+  /* background: url("https://i.ytimg.com/vi/hqgjbv189EA/maxresdefault.jpg") no-repeat bottom center scroll; */
+
   background-attachment: fixed;
   background-color: black;
   -webkit-background-size: cover;
